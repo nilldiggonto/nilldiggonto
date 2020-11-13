@@ -50,6 +50,8 @@
 
 </details>
 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?nilldiggonto" frameborder="0"></iframe>
+
 
 [twitter]: https://twitter.com/NillDiggonto
 [instagram]: https://www.instagram.com/nill.diggonto/
