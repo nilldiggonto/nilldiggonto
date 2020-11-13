@@ -17,6 +17,9 @@
 <html>
   <head>
     <link rel="stylesheet" href="https://bootswatch.com/4/simplex/bootstrap.css">
+    p{
+    color:'red';
+    }
   </head>
   <body>
     <p class="bg-primary"> let's see if it's work </p>
