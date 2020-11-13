@@ -14,10 +14,3 @@
 - ⚡ Fun fact: ...
 -->
 
-<html>
-
- 
-  <body>
-    <p class="bg-red"> let's see if it's work </p>
-    </body>
-  </html>
