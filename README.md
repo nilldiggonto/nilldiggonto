@@ -38,7 +38,7 @@
 
 <details>
   <summary>:zap: Language</summary>
-  <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?nilldiggonto" frameborder="0"></iframe>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilldiggonto&theme=tokyonight)
 
 
 </details>
