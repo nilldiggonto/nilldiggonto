@@ -12,7 +12,7 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Anaconda" width="26px" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" />
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1200px-Python_logo_and_wordmark.svg.png" />
+<img align="left" alt="Python" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-svg-vector.svg" />
 <img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
 <img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" />
 <img align="left" alt="Numpy" width="26px" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" />
@@ -37,20 +37,13 @@
 <br />
 
 <details>
-  <summary>:zap: Language</summary>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilldiggonto&theme=tokyonight)
-
-
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nilldiggonto&show_icons=true&hide_border=true" />
 
 </details>
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?nilldiggonto" frameborder="0"></iframe>
+
 
 
 [twitter]: https://twitter.com/NillDiggonto
