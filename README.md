@@ -16,12 +16,8 @@
 
 <html>
 
-  <style>
-  p{
-    color:'red';
-    }
-  </style>
+ 
   <body>
-    <p class="bg-primary"> let's see if it's work </p>
+    <p class="bg-red"> let's see if it's work </p>
     </body>
   </html>
