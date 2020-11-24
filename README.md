@@ -3,7 +3,7 @@
 ## I'm a Student, Data Analyst, Web Developer
 
 - 🌱 I’m currently spending most of time learning 🤣
-- 👯 I’m looking for a job right now.
+- :mag_right: I’m looking for a job right now.
 - 💬 moinulantu@gmail.com 
 - 📫 How to reach me: +880 1627566047(WhatsApp)
 
