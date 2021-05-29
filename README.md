@@ -1,13 +1,14 @@
 ### Hi there, I'm Moinul Islam :sweat_smile:
 
-## I'm a Student, Data Analyst, Web Developer
+## I'm a Python based Full Stack Engineer, Data Analyst, Web Developer, DevOps
 
-- 🌱 I’m currently spending most of time learning 
+- 🌱 I’m currently working as a Full Stack Engineer@Janata Wifi Ltd
 - 💬 moinulantu@gmail.com 
 - 📫 How to reach me: +880 1627566047(WhatsApp)
 
 
 ### Languages and Tools:
+<img align="left" alt="VUE" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Anaconda" width="36px" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" />
@@ -21,6 +22,9 @@
 <img align="left" alt="Postgres" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="VUE" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+<img align="left" alt="VUE" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
+
 
 <br />
 <br />
