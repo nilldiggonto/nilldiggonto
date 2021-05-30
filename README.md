@@ -52,6 +52,10 @@
 [<img align="center" alt="nill | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
   <summary>:zap: GitHub Stats</summary>
   <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nilldiggonto&count_private=true" />
+  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilldiggonto&hide=jupyter%20notebook,html,css" />
+  
+  
+  
 
 </details>
 
