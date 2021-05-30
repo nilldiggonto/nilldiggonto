@@ -23,9 +23,9 @@
 <img align="left" alt="Django" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/django-2-282855.png" />
 <img align="left" alt="Flask" width="36px" src="https://www.probytes.net/wp-content/uploads/2018/10/flask-logo-png-transparent.png" />
 <img align="left" alt="Postgres" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
-<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<br />
+<!-- <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> -->
+<!-- <br /> -->
 
 <img align="left" alt="js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
@@ -34,27 +34,19 @@
 
 
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 
-
+<br />
+<br />
+<!-- ![Nill's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilldiggonto&count_private=true) -->
+<details>
+  
 ### Connect with me:
 
 [<img align="center" alt="nill | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="center" alt="nill | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="center" alt="nill | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="nill | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-<br />
-<!-- ![Nill's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilldiggonto&count_private=true) -->
-<details>
   <summary>:zap: GitHub Stats</summary>
   <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nilldiggonto&count_private=true" />
 
