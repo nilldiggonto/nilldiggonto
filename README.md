@@ -1,8 +1,7 @@
 ### Hi there, I'm Moinul Islam :sweat_smile:
 
-## I'm a Python based Full Stack Engineer, Data Analyst, Web Developer, DevOps
+## I'm a Python-based Full Stack Engineer, Data Analyst, Web Developer, DevOps
 
-- 🌱 I’m currently working as a Full Stack Engineer@Janata Wifi Ltd
 - 💬 moinulantu@gmail.com 
 - 📫 How to reach me: +880 1627566047(WhatsApp)
 
