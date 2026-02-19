@@ -1,66 +1,98 @@
-### Hi there, I'm Moinul Islam :sweat_smile:
+<div align="center">
+  <img height="220" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=4200&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey!+I'm+Moinul+Islam;Full-Stack+%26+AI+Systems+Engineer;Building+Intelligent+Edge+Apps" />
+</div>
 
-## I'm a Python-based Full Stack Engineer, Data Analyst, Web Developer, DevOps
-
-- 💬 moinulantu@gmail.com 
-- 📫 How to reach me: +880 1627566047(WhatsApp)
-
-
-### Languages and Tools:
-<img align="left" alt="linux" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Anaconda" width="36px" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" />
-<img align="left" alt="Python" width="36px" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-svg-vector.svg" />
-<!-- <img align="left" alt="Jupyter" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" /> -->
-<!-- <img align="left" alt="Pandas" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" /> -->
-<img align="left" alt="Numpy" width="36px" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" />
-<img align="left" alt="Scikit" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
-<img align="left" alt="docker" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="tensor" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
-
-<img align="left" alt="Django" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/django-2-282855.png" />
-<img align="left" alt="Postgres" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
-<!-- <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> -->
-<!-- <br /> -->
-
-<img align="left" alt="js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="VUE" width="36px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" />
-<img align="left" alt="flutter" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-
-
-<br />
-
-
-<br />
-<br/>
-<br/>
 <br/>
 
-<!-- ![Nill's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilldiggonto&count_private=true) -->
-<details>
-  
-### Connect with me:
+<div align="center">
+  <a href="mailto:moinulantu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/moinul-islam-nilll/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/NillDiggonto">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://github.com/nilldiggonto">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-[<img align="center" alt="nill | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="center" alt="nill | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="center" alt="nill | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="nill | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-  <summary>:zap: GitHub Stats</summary>
-  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nilldiggonto&count_private=true" />
-  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilldiggonto&hide=jupyter%20notebook,html,css" />
-  
-  
-  
+  <br/><br/>
 
-</details>
+  <img src="https://komarev.com/ghpvc/?username=nilldiggonto&label=Profile+Views&color=00D4FF&style=flat-square" />
+</div>
 
+<br/>
 
+## 🚀 About Me
 
+AWS Certified Software Engineer with experience building scalable backend systems, distributed APIs, CDN-integrated services, and AI-powered applications across multi-cloud environments including AWS, Azure, and Cloudflare.
 
-[twitter]: https://twitter.com/NillDiggonto
-[instagram]: https://www.instagram.com/nill.diggonto/
-[linkedin]: https://www.linkedin.com/in/moinul-islam-nill/
-[facebook]: https://www.facebook.com/nilldiggonto/
+I build production backend systems and intelligent AI-powered applications. I work primarily with Python using Django and FastAPI, cloud infrastructure, and edge platforms. Recently, I have focused on LLM-powered systems including contextual vector databases, RAG pipelines, and AI search.
+
+Strong hands-on expertise in production LLM integration, Retrieval Augmented Generation system design, contextual vector databases, prompt orchestration, edge inference using Cloudflare Workers AI, reverse proxy and CDN architecture, WebSockets, security monitoring, and real-time production debugging at scale.
+
+---
+
+## 🔍 Focus Areas
+
+- LLM applications, RAG pipelines, and vector search  
+- Contextual vector database design for semantic retrieval  
+- Cloudflare Workers AI for edge inference and intelligent experiences  
+- Backend systems with Django, FastAPI, Celery, Redis, PostgreSQL  
+- Platform reliability including CDN, reverse proxy, SSL, and WebSockets  
+- DevOps using Docker, Kubernetes, CI/CD, Terraform, and Ansible  
+- High performance distributed APIs and task orchestration  
+- Security and monitoring using ElasticSearch, CrowdSec, Fail2Ban  
+- Multi-cloud infrastructure including AWS, Azure, and Alibaba Cloud  
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,redis,mongodb,docker,kubernetes,aws,azure,nginx,linux,git,githubactions,js,ts,react,nextjs,cloudflare,tensorflow,pytorch,vercel,html,css,terraform,ansible,lua,elasticsearch" />
+</div>
+
+---
+
+## 📊 Activity & Contributions
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nilldiggonto&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7dd3fc&line=00D4FF&point=ffffff" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nilldiggonto&theme=tokyonight" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nilldiggonto/nilldiggonto/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## 📫 Reach Out
+
+- Email → moinulantu@gmail.com  
+- Phone / WhatsApp → +880 1627566047 / +880 1405199145  
+- LinkedIn → https://www.linkedin.com/in/moinul-islam-nilll/  
+- GitHub → https://github.com/nilldiggonto  
+- X → https://twitter.com/NillDiggonto  
+
+---
+
+<div align="center">
+  <i>Turning complexity into invisible speed, scalable APIs, edge delivery, rock-solid ops 🚀</i>
+</div>
