@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="220" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=4200&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey!+I'm+Moinul+Islam;Full-Stack+%26+AI+Systems+Engineer;Building+Intelligent+Edge+Apps" />
+  <img height="220" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=4200&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey!+I'm+Moinul+Islam;-Full-Stack+%26+AI+Systems+Engineer;Building+Intelligent+Edge+Apps" />
 </div>
 
 <br/>
